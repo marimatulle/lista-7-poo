@@ -1,0 +1,3 @@
+Uma chamada a super() pode estar em qualquer local do construtor de uma subclasse?
+
+R: Não, uma chamada a super() deve ser a primeira instrução no construtor da subclasse.
